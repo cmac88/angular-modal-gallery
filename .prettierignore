@@ -56,10 +56,10 @@
 
 **/.bithoundrc
 **/.gitignore
+/**/.gitkeep
 **/.prettierignore
 **/.snyk
 **/.npmignore
-**/.snyk
 
 **/.DS_Store
 **/Thumbs.db
